@@ -1,0 +1,14 @@
+
+rutas
+    home --> renderizar algunos personajes de HP 
+    about --> 
+    details --> 
+    form --> agregar
+
+modules.css
+redux
+    store
+    reducer
+    actions
+
+
